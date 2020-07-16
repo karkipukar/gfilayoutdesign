@@ -7,5 +7,6 @@
 <?php include("templaes/layouts/header.php") ?>
 <?php include("templaes/layouts/homepage.php") ?>
 <?php include("templaes/layouts/footer.php") ?>
+    test 
 </body>
 </html>
